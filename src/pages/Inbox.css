@@ -1,0 +1,20 @@
+.status {
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 50%;
+    background-color: rgb(26, 61, 219);
+}
+
+.read{
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 50%;
+    background-color:white;
+
+}
